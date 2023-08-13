@@ -96,7 +96,7 @@ Running the last command will prompt that the server is running on port 5000.
 
 ## Accessing the Website :earth_americas:
 
-Now, simply load your cloud URL in the browser (e.g., http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/) to access the fully functional real estate price prediction website running in a production cloud environment. Enjoy! :tada:
+Now, simply load your cloud URL in the browser (e.g., [http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/](http://ec2-54-175-27-152.compute-1.amazonaws.com/)) to access the fully functional real estate price prediction website running in a production cloud environment.
 
 For more details, check out the code and the project walkthrough in the Jupyter Notebooks provided.
 
